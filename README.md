@@ -1,3 +1,9 @@
+This is a copy of the lab created by Yongkang He and Desmond Lai, located at https://github.com/yongkanghe/eks-k10
+
+The purpose of this copy is to localize the lab for users located in North America.
+
+The content of the original readme:
+
 #### Follow [@YongkangHe](https://twitter.com/yongkanghe) on Twitter, Subscribe [K8s Data Management](https://www.youtube.com/channel/UCm-sw1b23K-scoVSCDo30YQ?sub_confirmation=1) Youtube Channel
 
 I just want to build an EKS Cluster to play with the various Data Management capabilities e.g. Backup/Restore, Disaster Recovery and Application Mobility. 
